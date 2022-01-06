@@ -1,2 +1,2 @@
 # BeerShop
-BeerWebAPi with MongoDB
+BeerWebAPi
